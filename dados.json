@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "local": "Rua José Bonifácio, Centro",
+        "tipo_residuo": "Entulho",
+        "nivel_risco": "Alto",
+        "data_registro": "2026-09-12",
+        "status": "Pendente"
+    },
+    {
+        "id": 2,
+        "local": "Praça Pádua Salles",
+        "tipo_residuo": "Lixo doméstico",
+        "nivel_risco": "Médio",
+        "data_registro": "2026-09-15",
+        "status": "Em análise"
+    },
+    {
+        "id": 3,
+        "local": "Avenida Bernardino de Campos",
+        "tipo_residuo": "Resíduo eletrônico",
+        "nivel_risco": "Alto",
+        "data_registro": "2026-09-18",
+        "status": "Em andamento"
+    },
+    {
+        "id": 4,
+        "local": "Bairro Jardim Silmara",
+        "tipo_residuo": "Pneus",
+        "nivel_risco": "Médio",
+        "data_registro": "2026-09-20",
+        "status": "Resolvido"
+    },
+    {
+        "id": 5,
+        "local": "Margem do Ribeirão Camanducaia",
+        "tipo_residuo": "Móveis velhos",
+        "nivel_risco": "Baixo",
+        "data_registro": "2026-09-22",
+        "status": "Pendente"
+    },
+    {
+        "local": "Área verde do Bairro Jardim Europa",
+        "tipo_residuo": "Plásticos e recicláveis",
+        "nivel_risco": "Baixo",
+        "data_registro": "2026-09-23",
+        "status": "Em andamento",
+        "id": 6
+    }
+]

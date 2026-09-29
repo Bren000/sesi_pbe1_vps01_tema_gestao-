@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Cadastro de Ocorrências</title>
+</head>
+
+<body>
+
+    <h1>Cadastro de Ocorrências de Resíduos</h1>
+
+    <form action="http://localhost:3000/ocorrencias" method="POST">
+
+        <input
+            type="text"
+            name="local"
+            placeholder="Local da ocorrência"
+            required>
+
+        <input
+            type="text"
+            name="tipo_residuo"
+            placeholder="Tipo de resíduo"
+            required>
+
+        <input
+            type="text"
+            name="nivel_risco"
+            placeholder="Nível de risco"
+            required>
+
+        <input
+            type="date"
+            name="data_registro"
+            required>
+
+        <input
+            type="text"
+            name="status"
+            placeholder="Status"
+            required>
+
+        <button type="submit">Enviar</button>
+
+    </form>
+
+    <h2>by Breno Franco</h2>
+
+</body>
+
+</html>
