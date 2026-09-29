@@ -23,7 +23,7 @@ node server.js
 
 
 GET - TODAS AS OCORRÊNCIAS <br>
-![Get](./prints/get-todasasocorrencias.png)
+![Get](./prints/get-todasasocorrenciaspng.png)
 
 GET - BUSCAR POR ID <br>
 ![Get](./prints/getbuscarporid.png)
